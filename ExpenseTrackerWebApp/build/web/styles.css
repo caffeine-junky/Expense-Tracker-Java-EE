@@ -69,3 +69,8 @@ a {
 a:visited {
     color: purple;
 }
+
+select, option {
+    min-width: 100px;
+    min-height: 36px;
+}
